@@ -4,7 +4,7 @@ How to Use:
   1. Save this script as ascii_art.py
   2. Install Pillow if not already installed: pip install pillow
   3. Run it from the command line: python ascii_art.py path/to/your/image.jpg
-The script will output the ASCII art to the console.
+ The script will output the ASCII art to the console.
 
 
 Notes:
